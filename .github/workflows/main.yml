@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name : print welcome message
-        run: echo "Welcome Message on the GitHub Actions"
+        run: echo "Welcome Message on the GitHub Actions fisrt lessone"
